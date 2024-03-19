@@ -1,3 +1,13 @@
+## Smart Contract Development Starter Project
+
+This project is including a devcontainer configuration for CodeSpaces and local Docker-based development.
+
+Be sure to install the **Visual Studio Code Remote Development Extension Pack**: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack.
+
+1. Open this project.
+2. Reopen in Container
+3. Get started, e.g., with [First Steps with Foundry](https://book.getfoundry.sh/getting-started/first-steps)
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
